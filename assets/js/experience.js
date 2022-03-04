@@ -118,35 +118,23 @@ document.addEventListener("DOMContentLoaded", showCards);
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
-    title: "The Uplift Project",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/uplift.png",
-    desp: "I would be responsible for guiding 100s of participants across the globe in their first steps towards Applied Data Science and building end-to-end machine learning projects.",
-  },
-  {
     title: "Codelagos Hackathon",
     subtitle: "Winner",
     image: "assets/images/experience-page/codelagos.png",
     desp: "CodeLagos is an initiative of the Lagos State Ministry of Education aimed at making coding education accessible to Lagos State residents. CodeLagos is positioning residents of Lagos State to: A fundamental component of the initiative is human capital development.",
   },
-  {
-    title: "WaffleHacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/wafflehacks.png",
-    desp: "WaffleHacks 2021 is an upcoming 48-hour student-organized hackathon with an aim to bring technical solutions to local communities and small businesses.",
+ {
+    title: "Andela Learning Community",
+    subtitle: "Mentor",
+    image: "assets/images/experience-page/alc.png",
+    desp: "Mentoring and teaching learners on enhancing Android Development Technologies",
   },
-//  {
-//    title: "Elevate Tech",
-//    subtitle: "Judge",
-//    image: "assets/images/experience-page/elevate.png",
-//    desp: "Elevate Hacks is an upcoming all-female virtual hackathon coming from AUGUST 14th to 15th.",
-//  },
-//  {
-//    title: "PitchTeen",
-//    subtitle: "Judge",
-//    image: "assets/images/experience-page/pitchteen.png",
-//    desp: "PitchTeen 2.0 was a tech startup competition for female and non-binary communities in high school and college from all over the world with an aim to create a safe and encouraging place for women to help them explore tech and business fields.",
-//  },
+  {
+    title: "Andela Learning Community Project Demo day",
+    subtitle: "Judge",
+    image: "assets/images/experience-page/alc.png",
+    desp: "Evaluate a number of project submissions made by the learners during the community project phase.",
+  },
 //  {
 //    title: "Hack-A-Solution",
 //    subtitle: "Judge",
