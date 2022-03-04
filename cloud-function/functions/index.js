@@ -1,5 +1,7 @@
 const functions = require('firebase-functions');
 const nodemailer = require('nodemailer');
+const recipientEmail = "ayetolusamuel@gmail.com"
+
 
 const mailTransport = nodemailer.createTransport({
   service: 'gmail',
@@ -17,10 +19,10 @@ exports.sendEmailConfirmation = functions.database.ref('/users/').onWrite(async 
     console.log("Name::::: "+val.name)
     console.log("Email::: "+val.email)
     console.log("Message:: "+val.message)
-
+   
    const mailOptions = {
      from: '"Portfolio" <ayetolusamuel@gmail.com>',
-     to: val.email,
+     to: recipientEmail,
    };
 
     // Building Email message.
@@ -36,7 +38,7 @@ exports.sendEmailConfirmation = functions.database.ref('/users/').onWrite(async 
 
    try {
      await mailTransport.sendMail(mailOptions);
-     console.log(`New ${val.email} confirmation email sent to:`, val.email);
+     console.log(`New ${recipientEmail} confirmation email sent to:`, recipientEmail);
    } catch(error) {
      console.error('There was an error while sending the email:', error);
    }
