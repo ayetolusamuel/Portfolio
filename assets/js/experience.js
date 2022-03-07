@@ -72,14 +72,14 @@ const volunteershipcards = [
     title: "Zuri Chat",
     cardImage: "assets/images/experience-page/zuri_chat.png",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "Led a sub-team of 6 developers, to implement specified features on the Zuri chat application. Collaborated, researched and implemented best practices on android application architecture, SOLID principles, Separation of concerns, while implementing features using Agile scrum methodology.Mobile App Intern Hotels.ng/Zuri Team - Lagos, Nigeria.",
   },
-//  {
-//    title: "StudentCode-in 2020",
-//    cardImage: "assets/images/experience-page/2.jpg",
-//    description:
-//      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
-//  },
+  {
+    title: "Hotels ng",
+    cardImage: "assets/images/experience-page/hotels.png",
+    description:
+      "Contributed to the development of Zuri Chat Android native app for quick response to DMs and Channels in Zuri Organization. Implemented workspace switching, chat messages persistence in rooms, and channel creation features, thereby improving user app experience. Mobile App Intern Hotels.ng/Zuri Team - Lagos, Nigeria.",
+  },
 //  {
 //    title: "PClub Summer Of Code 2020",
 //    cardImage: "assets/images/experience-page/3.jpg",
