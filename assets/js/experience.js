@@ -9,14 +9,14 @@ const exp = [
     cardImage: "assets/images/experience-page/chamsmobile.png",
     place: "Chamsmobile LTD",
     time: "(April, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    desp: "<li>Consistently write, translate, and code software programs and applications according to specifications.</li> <li>Participate in the planning, design, development, and deployment of new applications and enhancements to existing applications</li> <li>Research, identify, analyze, and fulfil requirements of all internal and external program users.</li><li>Record, track, and document the problem-solving process, including all successful and unsuccessful decisions made, and actions taken, through to final resolution.</li> <li>Collaborate with business development unit, operations and technical departments in conceptualizing and developing new software programs and applications.</li>",
   },
   {
     title: "Software Engineer",
     cardImage: "assets/images/experience-page/chams_plc.png",
     place: "Chams PLC",
     time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li>Consistently write, translate, and code software programs and applications according to specifications.</li> <li>Participate in the planning, design, development, and deployment of new applications and enhancements to existing applications</li> <li>Research, identify, analyze, and fulfil requirements of all internal and external program users.</li><li>Record, track, and document the problem-solving process, including all successful and unsuccessful decisions made, and actions taken, through to final resolution.</li> </li>",
   },
   {
     title: "Software Developer",
@@ -30,7 +30,7 @@ const exp = [
     cardImage: "assets/images/experience-page/ascon.png",
     place: "Ascon",
     time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    desp: "<li>Worked on the organization website.</li><li>I was introduced to Oracle/MS-Access Database.</li><li> I was introduced to Mobile Development(Android), in which i was able to developed TODO App.</li>",
   },
 ];
 
@@ -72,20 +72,20 @@ const volunteershipcards = [
     title: "Zuri Chat",
     cardImage: "assets/images/experience-page/zuri_chat.png",
     description:
-      "Led a sub-team of 6 developers, to implement specified features on the Zuri chat application. Collaborated, researched and implemented best practices on android application architecture, SOLID principles, Separation of concerns, while implementing features using Agile scrum methodology.Mobile App Intern Hotels.ng/Zuri Team - Lagos, Nigeria.",
+      "Worked with a sub-team of 6 developers, to implement specified features on the Zuri chat application. Collaborated, researched and implemented best practices on android application architecture, SOLID principles, Separation of concerns, while implementing features using Agile scrum methodology.",
   },
   {
     title: "Hotels ng",
     cardImage: "assets/images/experience-page/hotels.png",
     description:
-      "Contributed to the development of Zuri Chat Android native app for quick response to DMs and Channels in Zuri Organization. Implemented workspace switching, chat messages persistence in rooms, and channel creation features, thereby improving user app experience. Mobile App Intern Hotels.ng/Zuri Team - Lagos, Nigeria.",
+      "Contributed to the development of Zuri Chat Android native app for quick response to DMs and Channels in Zuri Organization.",
   },
-//  {
-//    title: "PClub Summer Of Code 2020",
-//    cardImage: "assets/images/experience-page/3.jpg",
-//    description:
-//      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
-//  },
+  {
+    title: "SharkByte",
+    cardImage: "assets/images/experience-page/codelagos.png",
+    description:
+      "<li>Worked with the team to developed an Android App for smart gas detection, that synced retrieve data to the server. The project won the hackathon</li>",
+  },
 //  {
 //    title: "Hakin-Codes",
 //    cardImage: "assets/images/experience-page/4.jpg",
