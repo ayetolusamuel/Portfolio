@@ -84,7 +84,7 @@ const volunteershipcards = [
     title: "SharkByte",
     cardImage: "assets/images/experience-page/codelagos.png",
     description:
-      "<li>Worked with the team to developed an Android App for smart gas detection, that synced retrieve data to the server. The project won the hackathon</li>",
+      "Worked with the team to developed an Android App for smart gas detection, that synced retrieve data to the server. The project won the hackathon",
   },
 //  {
 //    title: "Hakin-Codes",
