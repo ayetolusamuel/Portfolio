@@ -473,16 +473,28 @@ const text=  document.querySelector("#textArea")
     }
   } );
 });
-
 const firebaseConfig = {
-  apiKey: "AIzaSyCMxTEguc-d92VwD3TtA9c1o720sboAkoE",
-  authDomain: "smart-fruit-care.firebaseapp.com",
-  projectId: "smart-fruit-care",
-  storageBucket: "smart-fruit-care.appspot.com",
-  messagingSenderId: "110976144600",
-  appId: "1:110976144600:web:2c3d7a0ec9455db496f3ad",
-  measurementId: "G-1EL00GX52B"
+  apiKey: "AIzaSyCnGccEXy_vLEsdp46uHsLG2yuK_b9ucAo",
+  authDomain: "alausasabi-e69ff.firebaseapp.com",
+  databaseURL: "https://alausasabi-e69ff.firebaseio.com",
+  projectId: "alausasabi-e69ff",
+  storageBucket: "alausasabi-e69ff.appspot.com",
+  messagingSenderId: "499323747025",
+  appId: "1:499323747025:web:9cae55a8c6791f700263f0",
+  measurementId: "G-8QJ6JSPB76"
 };
+
+
+
+// const firebaseConfig = {
+//   apiKey: "AIzaSyCMxTEguc-d92VwD3TtA9c1o720sboAkoE",
+//   authDomain: "smart-fruit-care.firebaseapp.com",
+//   projectId: "smart-fruit-care",
+//   storageBucket: "smart-fruit-care.appspot.com",
+//   messagingSenderId: "110976144600",
+//   appId: "1:110976144600:web:2c3d7a0ec9455db496f3ad",
+//   measurementId: "G-1EL00GX52B"
+// };
           // Initialize Firebase
           firebase.initializeApp(firebaseConfig);
           firebase.analytics();

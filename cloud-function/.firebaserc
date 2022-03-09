@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "smart-fruit-care"
-  }
+    "default": "smart-fruit-care",
+    "staging": "alausasabi-e69ff"
+  },
+  "targets": {}
 }
