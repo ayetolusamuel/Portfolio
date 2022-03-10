@@ -10,14 +10,14 @@ const moocscards = [
     moocLink: "https://www.udemy.com/certificate/UC-73c79e93-95a2-409c-bd1f-864358f64a9e/",
   },
   {
-    title: "Cryptography",
+    title: " Kotlin in Action - Kotlin programming for Android developers",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    moocLink: "https://www.udemy.com/certificate/UC-7a857481-2d4c-410b-9b1f-1e573517f9eb/",
   },
   {
-    title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    title: "Ultimate Java Development and Certification Course",
+    cardImage: "assets/images/education-page/eduonix.png",
+    moocLink: "https://www.eduonix.com/certificate/a5a3b2ee78",
   },
   {
     title: "Android Basics Nanodegree by Google",
@@ -25,47 +25,47 @@ const moocscards = [
     moocLink: "https://confirm.udacity.com/QKAGK27P",
   },
   {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
-  },
-  {
-    title: "Bootstrap 4",
+    title: " Coding in Style",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
+    moocLink: "https://www.udemy.com/certificate/UC-CPL2AGB7/",
   },
   {
-    title: "Intro to React",
-    cardImage: "assets/images/education-page/edx.svg",
-    moocLink: "https://www.edx.org/learn/reactjs",
-  },
-  {
-    title: "Intro to React Native",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink:
-      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
-  },
-  {
-    title: "NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
-  },
-  {
-    title: "XML-AJAX",
+    title: " Android App Development using Kotlin",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
+    moocLink: "https://www.udemy.com/certificate/UC-NFPRW00V/",
   },
   {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink:
-      "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+    title: " Communication and Interpersonal Skills at Work",
+    cardImage: "assets/images/education-page/udemy.svg",
+    moocLink: "https://www.udemy.com/certificate/UC-3FBBM8HA/",
   },
+//  {
+//    title: "Intro to React",
+//    cardImage: "assets/images/education-page/edx.svg",
+//    moocLink: "https://www.edx.org/learn/reactjs",
+//  },
+//  {
+//    title: "Intro to React Native",
+//    cardImage: "assets/images/education-page/coursera2.svg",
+//    moocLink:
+//      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
+//  },
+//  {
+//    title: "NodeJS, Express and MongoDB",
+//    cardImage: "assets/images/education-page/coursera2.svg",
+//    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
+//  },
+//  {
+//    title: "XML-AJAX",
+//    cardImage: "assets/images/education-page/udemy.svg",
+//    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
+//  },
+//  {
+//    title: "Data Structures & Algorithms",
+//    cardImage: "assets/images/education-page/udacity.svg",
+//    moocLink:
+//      "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+//  },
 ];
 
 const experience = [
