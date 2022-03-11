@@ -21,14 +21,14 @@ const projects = [
     Previewlink: "https://play.google.com/store/apps/details?id=com.chamsmobile.android",
     Githublink: "",
   },
-//  {
-//    title: "Flappy Bird",
-//    cardImage: "assets/images/project-page/flappybird.png",
-//    description: "Flappy bird game built using React.js",
-//    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-//    Previewlink: "",
-//    Githublink: "",
-//  },
+  {
+    title: "CRM-Spring Boot",
+    cardImage: "assets/images/project-page/crm.png",
+    description: "Flappy bird game built using React.js",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
+    Githublink: "https://github.com/ayetolusamuel/CRM-API_Implementation",
+  },
 //  {
 //    title: "Exercise Tracker",
 //    cardImage: "assets/images/project-page/exercise.jpg",
