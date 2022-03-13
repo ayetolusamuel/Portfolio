@@ -117,12 +117,13 @@ document.addEventListener("DOMContentLoaded", showCards);
 
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
-  {
-    title: "Codelagos Hackathon",
-    subtitle: "Winner",
-    image: "assets/images/experience-page/codelagos.png",
-    desp: "CodeLagos is an initiative of the Lagos State Ministry of Education aimed at making coding education accessible to Lagos State residents. CodeLagos is positioning residents of Lagos State to: A fundamental component of the initiative is human capital development.",
-  },
+
+ {
+       title: "Codelagos Hackathon",
+       subtitle: "Winner",
+       image: "assets/images/experience-page/codelagos.png",
+       desp: "CodeLagos is an initiative of the Lagos State Ministry of Education aimed at making coding education accessible to Lagos State residents. CodeLagos is positioning residents of Lagos State to: A fundamental component of the initiative is human capital development.",
+     },
  {
     title: "Andela Learning Community",
     subtitle: "Mentor",
@@ -135,6 +136,18 @@ const mentor = [
     image: "assets/images/experience-page/alc.png",
     desp: "Evaluate a number of project submissions made by the learners during the community project phase.",
   },
+  {
+      title: "Codelagos Hackathon",
+      subtitle: "Winner",
+      image: "assets/images/experience-page/codelagos.png",
+      desp: "CodeLagos is an initiative of the Lagos State Ministry of Education aimed at making coding education accessible to Lagos State residents. CodeLagos is positioning residents of Lagos State to: A fundamental component of the initiative is human capital development.",
+    },
+    {
+        title: "Andela Learning Community",
+        subtitle: "Mentor",
+        image: "assets/images/experience-page/alc.png",
+        desp: "Mentoring and teaching learners on enhancing Android Development Technologies",
+      },
 //  {
 //    title: "Hack-A-Solution",
 //    subtitle: "Judge",
@@ -147,18 +160,7 @@ const mentor = [
 //    image: "assets/images/experience-page/uniglobe.png",
 //    desp: "UniGlobe Hacks 2.0 is an upcoming 4-day long hackathon run by high school students held during 28-31 July 2021.",
 //  },
-//  {
-//    title: "AtlasHacks",
-//    subtitle: "Mentor",
-//    image: "assets/images/experience-page/atlas.png",
-//    desp: "AtlasHacks II is a 3-day virtual hackathon that aims to foster creativity within hackers all around the world.",
-//  },
-//  {
-//    title: "NeoHacks",
-//    subtitle: "Judge",
-//    image: "assets/images/experience-page/neo.png",
-//    desp: "NeoHacks is an upcoming 48-hour hackathon taking place July 23-25, 2021 where hundreds of students from around the world will come together virtually to learn new skills, meet new friends, and build awesome projects. We provide beginner-friendly workshops, mentorship, fun games, and more.",
-//  },
+//
 //  {
 //    title: "Mission Inspired",
 //    subtitle: "Judge",
