@@ -6,6 +6,14 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "I'm Alive App",
+    cardImage: "assets/images/project-page/i_am_alive.png",
+    description: "I’m Alive mobile app will eliminate centralized pensioner’s verification. It allows Pensioners to verify themselves from the Comfort of their home using a secure mobile Biometrics technologies from anywhere in the world.Features include:• Liveness check• Identity verification • Facial recognition",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://iamalive.com.ng/",
+    Githublink: "https://play.google.com/store/apps/details?id=iamalive.chams.com",
+  },
+   {
     title: "Zuri Chat App",
     cardImage: "assets/images/project-page/zuri_chat.png",
     description: "Zuri Chat is a Modern business communication platform that creates a compelling and engaging virtual workspace effective for business communications and collaborations.",
